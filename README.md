@@ -1,5 +1,7 @@
 # Calcium scoring in CTs of the chest
 
+### Try out the algorithm on [Grand-Challenge](https://grand-challenge.org/algorithms/calcium-scoring-in-ct-showing-the-heart/)
+
 This repository contains code for calcium scoring in chest CT scans using deep convolutional neural networks.
 
 The repository contains a jupyter notebook as well as standalone python code (in the subfolder `src`). The notebook can be used to train and
